@@ -5,6 +5,8 @@ While IBP offers a competitive distributed infrastructure solution, its current 
 
 The existing website, available at [ibp.network](https://ibp.network) and mirrored at [dotters.network](https://dotters.network), has the potential for further improvement in terms of design and branding to align better with the technical solution provided by the IBP.
 
+[IBP Wiki](https://wiki.ibp.network/) provides valuable information, and it could be further enhanced by better integration with the website through cohesive design.
+
 Helikon Labs proposes to lead a branding and design initiative that will transform the presentation, positioning and perception of IBP, ultimately resulting in better business prospects.
 
 ## Details
@@ -25,7 +27,7 @@ We can provide Figma design files as a demonstration of their excellent design p
 - UX design.
 - UI design.
 
-The complete process is carried out iteratively.
+The entire process is carried out iteratively, revisiting earlier steps as needed.
 
 Helikon Labs will lead the branding and design process and the development of the website. This RFC will be updated with budgetary details should there be sufficient interest from IBP members regarding this proposal.
 
