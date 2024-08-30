@@ -1,9 +1,9 @@
 # RFC-007: IBP Branding and Website
 ## Summary
 
-IBP currently does not have a well-designed branding and website that corresponds to the sophistication of the distributed infrastructure solution it provides. Branding and design are crucial to the positioning and success of IBP within the distributed infrastructure space, both in the Polkadot ecosystem and beyond.
+While IBP offers a competitive distributed infrastructure solution, its current branding and website do not fully reflect this level of sophistication. Strong branding and design are crucial to the positioning and success of IBP within the distributed infrastructure space, both in the Polkadot ecosystem and beyond.
 
-There is an IBP website at [ibp.network](https://ibp.network) mirrored by [dotters.network](https://dotters.network), but it falls short of a professional design, and completely lacks branding.
+The existing website, available at [ibp.network](https://ibp.network) and mirrored at [dotters.network](https://dotters.network), has the potential for further improvement in terms of design and branding to align better with the technical solution provided by the IBP.
 
 Helikon Labs proposes to lead a branding and design initiative that will transform the presentation, positioning and perception of IBP, ultimately resulting in better business prospects.
 
