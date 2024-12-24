@@ -28,6 +28,12 @@ However, this extra work requires an unplanned increase in budget. There is also
 
 We request 66 additional development hours to cover the shortfall, bringing the total hours for this project to 306. Afterward, we propose a maximum of 20 hours per month for maintenance and incremental improvements. Infrastructure requirements remain largely unchanged, relying on the existing DNS servers and monitoring nodes, with optional on-chain data storage or governance features adding only modest overhead.
 
+## Next Steps
+
+- Implement DNS Nodes on Member Sites: Deployment is planned for early January with selected members (Stake Plus, Metaspan, Amforc, and Rotko) hosting DNS services.
+- Finalize Billing Report Generation: By early to mid-January, the automated reporting system will be completed to track member service uptime and calculate payouts.
+- Begin System Usage: The revised billing model and refactored DNS infrastructure will be fully implemented starting in January, serving as the first month to employ all new features.
+
 ## Notes
 
 The new code structure simplifies future enhancements, including the creation of standalone monitoring services and the potential for user-driven DNS configurations. Although on-chain voting and DNS storage are currently optional, their implementation is facilitated by the completed refactoring, offering a clear path for the project’s evolution based on community interest and resource availability.
