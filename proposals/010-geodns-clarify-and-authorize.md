@@ -11,12 +11,12 @@ This RFC corrects past billing discrepancies and requests an updated 2025 hour a
 
 | Year | Source RFC(s) | Hours **authorised** | Hours **invoiced** | Delta |
 |------|---------------|----------------------|--------------------|-------|
-| 2024 | RFC‑004 | 200 | 200 | — |
-| 2024 | RFC-009 (mis‑stated “240 h”) | 200 authorised, **240 paid** | 240 | **+40** (over‑payment) |
+| 2024 | RFC‑004 | 200 | 240 | **+40** (over‑payment) |
+| 2024 | RFC-009 | 66 | 66 | - |
 | 2025 *(current)* | RFC‑009 cap: 20 h / month → 240 h total | 170 paid (Apr + May) <br>130 pending (Jun) | **300** | **‑60** (over cap) |
 
 *Key points*  
-* Forty hours were inadvertently paid in 2024 that had **not** been authorised.  
+* Forty hours were inadvertently paid in 2024 that had **not** been authorised. RFC-004 approved 200 hours and RFC-009 approved an additional 66 hours but on a base of 240 hours instead of 200 hours. 
 * The 2025 limit of **20 h / month (240 h)** is already exceeded; after the June invoice only **−60 h** remain available for the rest of the year.
 
 ---
