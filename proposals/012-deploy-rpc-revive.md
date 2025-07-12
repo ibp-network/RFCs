@@ -10,11 +10,20 @@ with the chain.
 IBP will deploy and maintain revive-rpc instances for:
 
 ### Production
-- **Polkadot Asset Hub**: `eth-asset-hub-polkadot.dotters.network`
-- **Kusama Asset Hub**: `eth-asset-hub-kusama.dotters.network`
+- **Polkadot Asset Hub**:
+    - `eth-asset-hub-polkadot.dotters.network`
+    - `eth-asset-hub-polkadot.ibp.network`
+- **Kusama Asset Hub**:
+    - `eth-asset-hub-kusama.dotters.network`
+    - `eth-asset-hub-kusama.ibp.network`
 
 ### Testnet
-- **Paseo Asset Hub**: `eth-asset-hub-paseo.dotters.network`
+- **Paseo Passet Hub**:
+    - `eth-passet-hub-paseo.dotters.network`
+    - `eth-passet-hub-paseo.ibp.network`
+- **Paseo Asset Hub**:
+    - `eth-asset-hub-paseo.dotters.network`
+    - `eth-asset-hub-paseo.ibp.network`
 
 ## Technical Requirements
 - Deploy revive-rpc binary alongside existing RPC infrastructure
@@ -33,7 +42,7 @@ IBP will deploy and maintain revive-rpc instances for:
 
 ## Voting
 Emoji **Yes** to approve or **No** to reject.
-Voting closes **14 July 2025 23:59 UTC**.
+Voting closes **16 July 2025 23:59 UTC**.
 
 ## References
 - [Polkadot Forum](https://forum.polkadot.network/t/testnets-paseo-officially-becomes-the-polkadot-testnet-temporary-passet-hub-chain-for-smart-contracts-testing/13209/3)
