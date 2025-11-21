@@ -78,7 +78,6 @@ $275,000 − $68,574.82 = **≈$206,425/month**
 - **Hardware economics have shifted.** The IBP hardware fleet is now ~3 years old, and market costs for CPU, RAM, and NVMe have materially decreased. Holding legacy pricing no longer aligns with real-world cost baselines.  
 - **Commercial leverage.** Lower base rates strengthen IBP’s position when replacing Parity and W3F cloud spend. Competing directly with AWS/GCP/Cloudflare requires a more aggressive cost structure.  
 - **Clean lever, zero operational risk.** Bandwidth remains the largest cost driver and cannot be reduced without impacting reliability. Adjusting CPU/RAM/NVMe pricing is the safest way to achieve meaningful savings without touching SLAs or capacity.  
-- **Governance optics.** Showing fiscal discipline improves credibility ahead of any upcoming Treasury refills.
 
 ---
 
