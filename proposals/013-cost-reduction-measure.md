@@ -66,9 +66,9 @@ $13,718.57 − $8,004.00 = **$5,714.57/month**
 $275,000 − $68,574.82 = **≈$206,425/month**  
 
 **Runway impact:**  
-- At current burn (~$275k): ~4–5 months  
-- At new burn (~$206k): ~6–7 months  
-- **Runway extended by ~1.5–2 months**
+- At current burn (~$275k): ~4 months  
+- At new burn (~$206k): ~7 months  
+- **Runway extended by ~3 months**
 
 ---
 
