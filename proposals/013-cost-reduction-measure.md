@@ -85,7 +85,7 @@ $275,000 − $68,574.82 = **≈$206,425/month**
 
 On the GitHub RFC PR:
 
-- 👍 **Thumbs up** = **Aye** (approve new pricing effective December 2025)  
+- 👍 **Thumbs up** = **Aye** (approve new pricing effective December 2025 for January 1, 2026)  
 - 👎 **Thumbs down** = **Nay** (reject proposal)
 
 No reaction = abstain.
